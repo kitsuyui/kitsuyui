@@ -1,0 +1,11 @@
+version: 2
+jobs:
+  test:
+    docker:
+      - image: ubuntu:latest
+    steps:
+      - checkout
+      - setup_remote_docker
+      - run:
+          command: |
+            ./test_all.sh
