@@ -9,3 +9,8 @@ jobs:
       - run:
           command: |
             ./test_all.sh
+workflows:
+  version: 2
+  build_and_release:
+    jobs:
+      - test
