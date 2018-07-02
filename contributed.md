@@ -4,6 +4,7 @@ FLOSS の Pull Request や issue で何かしら貢献できた成果は、こ�
 
 # 一覧
 
+- https://github.com/eoranged/rq-dashboard/pull/158
 - https://github.com/renovateapp/renovate/pull/1930
 - https://github.com/crsmithdev/arrow/pull/312
 - https://github.com/claudetech/python-slack-log/pull/5
