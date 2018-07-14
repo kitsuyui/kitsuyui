@@ -4,6 +4,7 @@ FLOSS の Pull Request や issue で何かしら貢献できた成果は、こ�
 
 # 一覧
 
+- https://github.com/Microsoft/homebrew-mssql-release/issues/18
 - https://github.com/python/python-docs-ja/pull/9
 - https://github.com/eoranged/rq-dashboard/pull/158
 - https://github.com/Microsoft/homebrew-mssql-release/issues/18
