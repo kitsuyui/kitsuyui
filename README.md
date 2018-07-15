@@ -1,5 +1,7 @@
 # kitsuyui
 
+- ![Circle CI Status](https://img.shields.io/circleci/project/github/kitsuyui/kitsuyui/master.svg)
+
 ## Account
 
 - [GitHub](https://github.com/kitsuyui/)
