@@ -10,3 +10,4 @@ docker_test() {
 }
 
 docker_test tips/python-functional
+docker_test tips/shellscript-editing-during-running
