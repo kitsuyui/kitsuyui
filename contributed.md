@@ -23,6 +23,7 @@ FLOSS の Pull Request や issue で何かしら貢献できた成果は、こ�
 - https://github.com/embulk/embulk-output-jdbc/pull/209
 - https://github.com/embulk/embulk-output-jdbc/pull/214
 - https://github.com/hogelog/dmemo/pull/94
+- https://github.com/discordjs/discord.js/pull/2035
 - https://github.com/medjed/embulk-input-bigquery/pull/7
 - https://github.com/horike37/serverless-step-functions/pull/11
 - https://github.com/horike37/serverless-step-functions/pull/29
