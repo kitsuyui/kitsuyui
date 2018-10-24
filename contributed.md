@@ -4,6 +4,7 @@ FLOSS の Pull Request や issue で何かしら貢献できた成果は、こ�
 
 # 一覧
 
+- https://github.com/github/gitignore/pull/2851
 - https://github.com/python/typeshed/pull/2449
 - https://github.com/Microsoft/homebrew-mssql-release/issues/18
 - https://github.com/python/python-docs-ja/pull/9
