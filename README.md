@@ -9,3 +9,4 @@
 - [Keybase](https://keybase.io/kitsuyui/)
 - [Qiita](https://qiita.com/kitsuyui)
 - [NPM](https://www.npmjs.com/~kitsuyui)
+- [PyPI](https://pypi.org/user/kitsuyui/)
