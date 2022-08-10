@@ -1,12 +1,23 @@
 # kitsuyui
-## Account
+## Accounts
 
-- [GitHub](https://github.com/kitsuyui/)
+- git repository services
+  - [GitHub](https://github.com/kitsuyui/)
+  - [GitLab](https://gitlab.com/kitsuyui)
+
+- package registries
+  - [NPM](https://www.npmjs.com/~kitsuyui)
+  - [PyPI](https://pypi.org/user/kitsuyui/)
+  - [crates.io](https://crates.io/users/kitsuyui)
+  - [Docker Hub](https://hub.docker.com/r/kitsuyui/)
+
+- knowledge base sites
+  - [Qiita](https://qiita.com/kitsuyui)
+  - [Zenn](https://zenn.dev/kitsuyui)
+
+- social media sites
+  - [Twitter](https://twitter.com/kitsuyui)
+
+- keys
+  - [Keybase](https://keybase.io/kitsuyui/)
   - [SSH Public keys](https://github.com/kitsuyui.keys)
-- [GitLab](https://gitlab.com/kitsuyui)
-- [Twitter](https://twitter.com/kitsuyui)
-- [Docker Hub](https://hub.docker.com/r/kitsuyui/)
-- [Keybase](https://keybase.io/kitsuyui/)
-- [Qiita](https://qiita.com/kitsuyui)
-- [NPM](https://www.npmjs.com/~kitsuyui)
-- [PyPI](https://pypi.org/user/kitsuyui/)
