@@ -1,9 +1,11 @@
-# 何かしら FLOSS に貢献したらここに書いていきます。
+# Contributions
 
-FLOSS の Pull Request や issue で何かしら貢献できた成果は、ここに記載していきます。
+A list of repositories I contributed to
 
-# 一覧
+# list
 
+- https://github.com/staticdev/human-readable/pull/528
+- https://github.com/DataDog/dd-trace-py/pull/1718
 - https://github.com/motemen/git-pr-release/pull/26
 - https://github.com/github/gitignore/pull/2851
 - https://github.com/python/typeshed/pull/2449
