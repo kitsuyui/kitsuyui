@@ -41,4 +41,4 @@
 
 ## Contributions
 
-- [contributed](/contributed.md)
+- [contributions](/contributions.md)
