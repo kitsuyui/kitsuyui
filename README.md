@@ -39,6 +39,17 @@
 - [python-template-analysis](https://github.com/kitsuyui/python-template-analysis) -- A template analysis library for Python (Python)
 - [python-throttle-controller](https://github.com/kitsuyui/python-throttle-controller) -- A throttle controller library for Python (Python)
 
+## Playground / Sandbox / Experiments
+
+The following repositories are for experiments. I mainly do trivial experiments.
+So there may be force push or breaking changes, but these are the most active repositories.
+
+- [ml-playground](https://github.com/kitsuyui/ml-playground) -- A playground for machine learning (Python)
+- [pypi-playground](https://github.com/kitsuyui/pypi-playground) -- A playground for PyPI (Python)
+- [rust-playground](https://github.com/kitsuyui/rust-playground) -- A playground for Rust (Rust)
+- [gha-playground](https://github.com/kitsuyui/gha-playground) -- A playground for GitHub Actions (Python)
+- [playground](https://github.com/kitsuyui/playground) -- Everything
+
 ## Contributions
 
 - [contributions](/contributions.md)
