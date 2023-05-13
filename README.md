@@ -48,6 +48,8 @@ So there may be force push or breaking changes, but these are the most active re
 - [pypi-playground](https://github.com/kitsuyui/pypi-playground) -- A playground for PyPI (Python)
 - [rust-playground](https://github.com/kitsuyui/rust-playground) -- A playground for Rust (Rust)
 - [gha-playground](https://github.com/kitsuyui/gha-playground) -- A playground for GitHub Actions (Python)
+- [react-playground](https://github.com/kitsuyui/react-playground) -- A playground for React
+- [nextjs-playground](https://github.com/kitsuyui/nextjs-playground) -- A playground for Next.js
 - [playground](https://github.com/kitsuyui/playground) -- Everything
 
 ## Contributions
