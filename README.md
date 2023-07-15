@@ -38,6 +38,7 @@
 - [cmd_cache](https://github.com/kitsuyui/cmd_cache) -- A command cache library (Go)
 - [python-template-analysis](https://github.com/kitsuyui/python-template-analysis) -- A template analysis library for Python (Python)
 - [python-throttle-controller](https://github.com/kitsuyui/python-throttle-controller) -- A throttle controller library for Python (Python)
+- [python-tally-token](https://github.com/kitsuyui/python-tally-token) -- Split text or binary into multiple binary tokens (Python)
 
 ## Playground / Sandbox / Experiments
 
