@@ -4,6 +4,8 @@ A list of repositories I contributed to
 
 # list
 
+- https://github.com/celery/celery/pull/6566
+- https://github.com/octokit/action.js/issues/493
 - https://github.com/staticdev/human-readable/pull/528
 - https://github.com/DataDog/dd-trace-py/pull/1718
 - https://github.com/motemen/git-pr-release/pull/26
