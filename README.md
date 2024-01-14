@@ -30,6 +30,7 @@
   - [python-template-analysis](https://github.com/kitsuyui/python-template-analysis) -- A template analysis library for Python
   - [python-throttle-controller](https://github.com/kitsuyui/python-throttle-controller) -- A throttle controller library for Python
   - [python-tally-token](https://github.com/kitsuyui/python-tally-token) -- Split text or binary into multiple binary tokens
+  - [python-timeout-iterator](https://github.com/kitsuyui/python-timeout-iterator) -- A timeout iterator library for Python
 - Rust
   - [mure](https://github.com/kitsuyui/mure) -- Manage multiple repositories (Rust)
   - [rust-codecov](https://github.com/kitsuyui/rust-codecov) -- A thin codecov API wrapper for Rust
