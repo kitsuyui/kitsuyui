@@ -58,6 +58,7 @@ So there may be force push or breaking changes, but these are the most active re
 - [ts-playground](https://github.com/kitsuyui/ts-playground) -- A playground for TypeScript (TypeScript)
 - [react-playground](https://github.com/kitsuyui/react-playground) -- A playground for React
 - [nextjs-playground](https://github.com/kitsuyui/nextjs-playground) -- A playground for Next.js
+- [shellscript-playground](https://github.com/kitsuyui/shellscript-playground) -- A playground for Shell Script
 - [playground](https://github.com/kitsuyui/playground) -- Everything
 
 ## Contributions
