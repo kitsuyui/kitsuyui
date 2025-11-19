@@ -4,6 +4,7 @@ A list of repositories I contributed to
 
 # list
 
+- https://github.com/taximanli/kotobade-asobou/issues/58 https://github.com/taximanli/kotobade-asobou/pull/60
 - https://github.com/celery/celery/pull/6566
 - https://github.com/octokit/action.js/issues/493
 - https://github.com/staticdev/human-readable/pull/528
