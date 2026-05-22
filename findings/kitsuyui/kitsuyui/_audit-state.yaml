@@ -11,8 +11,8 @@ categories:
       model: gpt-5.5-extra-high
       context: automation-issue-loop
   audit-directory-layout:
-    last_checked_at: 2026-05-22T14:36:27+09:00
-    last_checked_target_commit: 6a44ac04d76bd10ee82898708ed6acf978d93f92
+    last_checked_at: 2026-05-22T21:41:33+09:00
+    last_checked_target_commit: ababa306a0a0f7d09fb1c134630458fe3b298fd3
     last_checked_basis_commit: 13a56bf9cc89f13a4376f37188352242766f3a8e
     last_run_by:
       type: agent
