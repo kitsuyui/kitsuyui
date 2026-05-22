@@ -19,6 +19,15 @@ categories:
       agent: codex
       model: gpt-5.5-extra-high
       context: automation-issue-loop
+  audit-implicit-behavior:
+    last_checked_at: 2026-05-22T23:38:19+09:00
+    last_checked_target_commit: be221b53bdd5c8c2cf5353ab4da75dd2c7916caf
+    last_checked_basis_commit: 13a56bf9cc89f13a4376f37188352242766f3a8e
+    last_run_by:
+      type: agent
+      agent: codex
+      model: gpt-5.5-extra-high
+      context: automation-issue-loop
   docs:
     last_checked_at: 2026-05-22T17:36:28+09:00
     last_checked_target_commit: 6a44ac04d76bd10ee82898708ed6acf978d93f92
