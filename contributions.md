@@ -15,7 +15,6 @@ A list of repositories I contributed to
 - https://github.com/Microsoft/homebrew-mssql-release/issues/18
 - https://github.com/python/python-docs-ja/pull/9
 - https://github.com/eoranged/rq-dashboard/pull/158
-- https://github.com/Microsoft/homebrew-mssql-release/issues/18
 - https://github.com/renovateapp/renovate/pull/1930
 - https://github.com/crsmithdev/arrow/pull/312
 - https://github.com/claudetech/python-slack-log/pull/5
