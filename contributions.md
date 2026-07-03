@@ -38,4 +38,7 @@ A list of repositories I contributed to
 - https://github.com/horike37/serverless-step-functions/pull/30
 - https://github.com/dmarmor/epichrome/issues/85#issuecomment-256107908
 - https://github.com/mikoto2000/embulk-input-salesforce_bulk/issues/4#issuecomment-281945126
+
+# External mentions
+
 - https://twitter.com/taku910/status/556466893280645120
